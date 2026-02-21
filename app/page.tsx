@@ -1,4 +1,4 @@
-import CelestialAtlas from "@/celestial-atlas";
+import CelestialAtlas from "@/components/celestial-atlas.main";
 
 export default function Home() {
   return <CelestialAtlas />;
